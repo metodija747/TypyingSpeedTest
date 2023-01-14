@@ -7,7 +7,7 @@
   the word background color becomes green, otherwise red.
 5. All 100 words are divided into 10 segments, so 
   only 1 segment is shown at one time.
-6. When user finished the segment, next segment is shown,
+6. When user finishes the segment, next segment is shown,
   on the same place of the previous words segment.
 7. User enters words for 60 seconds, when timer runs out,
   MessageBox pops up telling statistics.
