@@ -1,1 +1,1 @@
-# TypyingSpeedTest
+# TypingSpeedTest
